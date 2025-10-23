@@ -1,1 +1,2 @@
-from .megatron_tokenizer import MegatronDocumentTokenizer
+# from .megatron_tokenizer import MegatronDocumentTokenizer
+from .megatron_tokenizer_context import MegatronDocumentTokenizer
